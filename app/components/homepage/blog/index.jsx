@@ -9,7 +9,7 @@ const otherProjects= [
     title: "A web app portfolio for Front-end Developers",
     description: "A concise showcase of your talents and achievements, elegantly presented for maximum impact.",
     liveUrl:"https://ebrahimkhan.vercel.app/",
-    gitUrl: "https://github.com/EbrahimkhanM/ibrahim-portfolio-22",
+    gitUrl: "https://github.com/EbrahimkhanM/ebrahim-rm-portfolio",
     app:"Portfolio"
   },
   {
