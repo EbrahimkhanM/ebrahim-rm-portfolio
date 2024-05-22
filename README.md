@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img height="100" src="./public/free-palestine/screen.png">
+    <img height="100" src="https://raw.githubusercontent.com/EbrahimkhanM/ebrahim-rm-portfolio/main/public/image/free-palestine.avif">
 </p>
 
 
