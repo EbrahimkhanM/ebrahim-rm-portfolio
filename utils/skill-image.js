@@ -78,6 +78,7 @@ import googledrive from '/public/svg/skills/google-drive-color-icon.svg';
 import gmail from '/public/svg/skills/gmail-icon.svg';
 import googleforms from '/public/svg/skills/google-forms-icon.svg';
 import googledocs from '/public/svg/skills/google-docs-icon.svg';
+import webhooks from '/public/svg/skills/fishing-color-icon.svg';
 
 
 export const skillsImage = (skill) => {
@@ -243,6 +244,8 @@ export const skillsImage = (skill) => {
       return googledocs;
     case 'googleforms':
       return googleforms;
+    case 'webhooks':
+      return webhooks;
     default:
       break;
   }

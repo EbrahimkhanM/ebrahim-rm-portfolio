@@ -10,6 +10,7 @@ export const skillsData = [
   'GoogleDocs',
   'GoogleForms',
   'Gmail',
+  'WebHooks',
   'Next JS',
   'Tailwind',
   'MongoDB',
