@@ -4,6 +4,12 @@ export const skillsData = [
   'Javascript',
   'Typescript',
   'React',
+  'GoogleSheets',
+  'AppsScript',
+  'GoogleDrive',
+  'GoogleDocs',
+  'GoogleForms',
+  'Gmail',
   'Next JS',
   'Tailwind',
   'MongoDB',
@@ -20,7 +26,7 @@ export const skillsData = [
   'Strapi',
   'Svelte',
   'Azure',
-  'Graphql'
+  'Graphql',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

@@ -12,6 +12,7 @@ export const projectsData = [
     tools: [
       "React",
       "Contentful",
+      "Sheets",
       "Material UI",
       "Google Map",
       "Git Lab",
@@ -47,7 +48,7 @@ export const projectsData = [
     name: "DMA Digital Marketing Agency",
     description:
       "As a frontend developer at DMA Next JS, I helped create a fancy financial website. We made it easy to use and perfect for promoting DMA firm worldwide. We kept things simple and added cool new ideas, making it super quick to use. We worked together, got creative, and made everything top-notch. I'm proud to be part of DMA Next JS, always pushing to make better websites.",
-    tools: ["Next.js", "Redux", "Contentful", "AWS S3", "Node Mailer"],
+    tools: ["Next.js", "Redux", "Contentful", "Sheets", "AWS S3", "Node Mailer"],
     role: "Frontend Developer",
     code: "",
     demo: "",

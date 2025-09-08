@@ -43,7 +43,7 @@ import memsql from '/public/svg/skills/memsql.svg';
 import microsoftoffice from '/public/svg/skills/microsoftoffice.svg';
 import mongoDB from '/public/svg/skills/mongoDB.svg';
 import mysql from '/public/svg/skills/mysql.svg';
-import nextJS from '/public/svg/skills/nextJS.svg';
+import nextJS from '/public/svg/skills/nextjs-icon.svg';
 import nginx from '/public/svg/skills/nginx.svg';
 import numpy from '/public/svg/skills/numpy.svg';
 import nuxtJS from '/public/svg/skills/nuxtJS.svg';
@@ -72,6 +72,12 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import appsscript from '/public/svg/skills/appscript.png';
+import googlesheets from '/public/svg/skills/google-sheets-icon.svg';
+import googledrive from '/public/svg/skills/google-drive-color-icon.svg';
+import gmail from '/public/svg/skills/gmail-icon.svg';
+import googleforms from '/public/svg/skills/google-forms-icon.svg';
+import googledocs from '/public/svg/skills/google-docs-icon.svg';
 
 
 export const skillsImage = (skill) => {
@@ -225,6 +231,18 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+    case 'appsscript':
+      return appsscript;
+    case 'googlesheets':
+      return googlesheets;
+    case 'googledrive':
+      return googledrive;
+    case 'gmail':
+      return gmail;
+    case 'googledocs':
+      return googledocs;
+    case 'googleforms':
+      return googleforms;
     default:
       break;
   }

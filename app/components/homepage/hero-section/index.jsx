@@ -118,6 +118,16 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Google Apps Script</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Google Sheets</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Google Drive</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Google Forms</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Webhooks</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Redux</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Express</span>
@@ -133,6 +143,8 @@ function HeroSection() {
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Git & Github</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Azure</span>
                 <span className="text-gray-400">{"'],"}</span>
