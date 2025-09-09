@@ -2,7 +2,7 @@ export const personalData = {
   name: "Muhammad Ibrahim",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is MUHAMMAD IBRAHIM. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is MUHAMMAD IBRAHIM. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude, passionate about problem-solving and building smart solutions. Along with modern web development, I specialize in Google Apps Script and G Suite automation, creating workflows that save time and improve productivity. My core skill is based on JavaScript, and I enjoy applying it in web applications as well as automation projects. I love to explore new technologies and make the web and cloud tools more open and useful for the world. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'ebrahimkhanm10@gmail.com',
   phone: '+923155603941',
   address: 'Abbottabad KPK, Pakistan',
